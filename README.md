@@ -10,14 +10,14 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 
 ## 🔗 Project Links
 
-- **🔧 Backend (Flask + ASL Recognition + AES Encryption)**  
-  [GitHub Repo](https://github.com/yourusername/encrypted-asl-backend)
+- **🔧 Backend (Flask + ASL Recognition + AES Encryption + MongoDB)**  
+  [GitHub Repo](https://github.com/ranaabdellatif/ASL-API)
 
-- **🎨 Frontend (React + WebRTC Video Capture + JWT Auth)**  
-  [GitHub Repo](https://github.com/yourusername/encrypted-asl-frontend)
+- **🎨 Frontend (React + Video Capture + JWT Auth)**  
+  [GitHub Repo](https://github.com/ranaabdellatif/ASL-REACT)
 
 - **📽️ Final Presentation (Slides or Video)**  
-  [View Presentation](https://link-to-your-presentation.com)
+  [View Presentation](https://docs.google.com/presentation/d/1FlHOay-_y-eVYmNk74mZVlTBFCwQR4UO7QvkOgcasTY/edit?usp=sharing)
 
 - **📊 Research Poster**  
   [View Poster](https://link-to-your-poster.com)
