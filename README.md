@@ -50,16 +50,12 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 [2] https://www.kaggle.com/datasets/namanmanchanda/american-sign-language-model-99-accuracy
 [3] https://www.kaggle.com/datasets/utkarshsaxenadn/asl-alphabet-recognition-resnet50v2-models
 [4] https://www.youtube.com/watch?v=MJCSjXepaAM
-![image](https://github.com/user-attachments/assets/ca0a5e09-3e21-4cea-9c1b-56eb616f9d22)
 
 
 ---
 
 ## 📥 Getting Started
 
-1. **Clone Backend**  
-   ```bash
-   git clone https://github.com/yourusername/encrypted-asl-backend
-   cd encrypted-asl-backend
-   pip install -r requirements.txt
-   python app.py
+1. **Head to the website [Final Project React Webstite](https://asl-react.onrender.com/)**
+2. **Sign-up with an email or password**
+3. **Record a video and upload it to reeive a translation!**
