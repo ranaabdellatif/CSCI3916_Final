@@ -58,4 +58,4 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 
 1. **Head to the website [Final Project React Webstite](https://asl-react.onrender.com/)**
 2. **Sign-up with an email or password**
-3. **Record a video and upload it to reeive a translation!**
+3. **Record a video and upload it to receive a translation!**
