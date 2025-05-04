@@ -46,13 +46,12 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 ---
 
 ## 📚 Sources
+[1] https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning
+[2] https://www.kaggle.com/datasets/namanmanchanda/american-sign-language-model-99-accuracy
+[3] https://www.kaggle.com/datasets/utkarshsaxenadn/asl-alphabet-recognition-resnet50v2-models
+[4] https://www.youtube.com/watch?v=MJCSjXepaAM
+![image](https://github.com/user-attachments/assets/ca0a5e09-3e21-4cea-9c1b-56eb616f9d22)
 
-- Stallings, W. (2017). *Cryptography and Network Security: Principles and Practice*.
-- Vanhoef, M., & Piessens, F. (2017). *Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2*.
-- Paar, C., & Pelzl, J. (2009). *Understanding Cryptography*.
-- Katz, J., & Lindell, Y. (2014). *Introduction to Modern Cryptography*.
-- OWASP Cheat Sheet Series – [Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
-- NIST Post-Quantum Cryptography Project – [https://csrc.nist.gov](https://csrc.nist.gov)
 
 ---
 
