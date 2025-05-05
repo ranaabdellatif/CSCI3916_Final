@@ -20,7 +20,7 @@ It combines principles of **cryptography**, **machine learning**, **network secu
   [View Presentation](https://docs.google.com/presentation/d/1FlHOay-_y-eVYmNk74mZVlTBFCwQR4UO7QvkOgcasTY/edit?usp=sharing)
 
 - **📊 Research Poster**  
-  [View Poster](https://link-to-your-poster.com)
+  [View Poster](https://drive.google.com/file/d/1MkfbZ7M-cfGfoD-wlTWgqbR4UMfNd068/view?usp=sharing)
 
 ---
 
