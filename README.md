@@ -10,6 +10,9 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 
 ## 🔗 Project Links
 
+**Check out the deployed website here!**
+[Secure ASL Translation Tool](https://asl-react.onrender.com/)
+
 - **🔧 Backend (Flask + ASL Recognition + AES Encryption + MongoDB)**  
   [GitHub Repo](https://github.com/ranaabdellatif/ASL-API)
 
