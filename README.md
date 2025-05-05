@@ -16,8 +16,11 @@ It combines principles of **cryptography**, **machine learning**, **network secu
 - **🎨 Frontend (React + Video Capture + JWT Auth)**  
   [GitHub Repo](https://github.com/ranaabdellatif/ASL-REACT)
 
-- **📽️ Final Presentation (Slides or Video)**  
+- **📽️ Final Presentation 3916 Slideshow**  
   [View Presentation](https://docs.google.com/presentation/d/1FlHOay-_y-eVYmNk74mZVlTBFCwQR4UO7QvkOgcasTY/edit?usp=sharing)
+
+- **📽️ Final Presentation 3740 Slideshow**  
+  [View Presentation](https://docs.google.com/presentation/d/10JQsKlf1lDa4PzKrNbAtfoiGC0Gkpz7Ar1XpgRMNb-E/edit?usp=sharing)
 
 - **📊 Research Poster**  
   [View Poster](https://drive.google.com/file/d/1MkfbZ7M-cfGfoD-wlTWgqbR4UMfNd068/view?usp=sharing)
